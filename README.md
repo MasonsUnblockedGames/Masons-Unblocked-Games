@@ -92,4 +92,4 @@ Me (SeanS) - For making this
 You - For playing it
 -
 
-Also, you donÂ´t have to give credit if you iframe or embed this for your own website. I donÂ´t care. 
+Also, please give credit if you iframe or embed this for your own website.

@@ -1,14 +1,18 @@
 a {
   text-decoration: none;
-  color: blue;
+  color: #9000ff;
 }
 
 a:hover {
   text-decoration: underline;
   tect-decoration: bold;
-  color: purple;
+  color: #003cff;
 }
 
 a:visited:hover {
-  color: purple;
+  color: #003cff;
+}
+
+a:visited {
+  color: #9000ff;
 }

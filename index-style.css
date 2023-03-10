@@ -9,3 +9,18 @@
   src: url("https://cdn.glitch.global/f9d1316d-3f13-4a70-8f55-c83a306e3cc1/TitanOne-Regular.ttf?v=1677707997480")
     format("opentype");
 }
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
+  tect-decoration: bold;
+  color: purple;
+}
+
+a:visited {
+  color: blue;
+}

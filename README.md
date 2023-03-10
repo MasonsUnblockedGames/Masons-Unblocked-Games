@@ -93,3 +93,5 @@ You - For playing it
 -
 
 Also, please give credit if you iframe or embed this for your own website.
+
+Is this a W site?

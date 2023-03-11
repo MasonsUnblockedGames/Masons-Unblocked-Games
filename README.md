@@ -1,4 +1,4 @@
-<img alt="I make stuff" src="https://masonsunblockedgames.github.io/readmetypingthing/">
+<embed alt="I make stuff" src="https://masonsunblockedgames.github.io/readmetypingthing/"></embed>
 <h1 align="center">Hi 👋, I'm Mason</h1>
 <h3 align="center">I make sites and update games and other stuff.</h3>
 <h2>Programmer Humor</h2>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
        </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MasonsUnblockedGames&no-frame=trueno-bg=true" alt="Mason" /></a> </p>
 
 - 🔭 I’m currently working on [My unblocked games website](https://masonsunblockedgames.github.io/MasonsUnblockedGames) and whatever else!
 

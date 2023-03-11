@@ -1,4 +1,4 @@
-[/](https://masonsunblockedgames.github.io/readmetypingthing/)
+<img src="https://masonsunblockedgames.github.io/readmetypingthing/" alt="I write scripts">
 <h1 align="center">Hi 👋, I'm Mason</h1>
 <h3 align="center">I make sites and update games and other stuff.</h3>
 <h2>Programmer Humor</h2>

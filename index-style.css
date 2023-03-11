@@ -18,9 +18,9 @@ a:visited {
 }
 
 p, h1, h2, h3, h4, h5, h6, b, u {
-  color: #dbdbdb;
+  color: #000;
 }
 
 body {
-  background-color: #383838;
+  background-color: #fff;
 }

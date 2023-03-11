@@ -1,99 +1,55 @@
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Echo!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
+<h1 align="center">Hi 👋, I'm Mason</h1>
+<h3 align="center">I make sites and update games and other stuff.</h3>
+<h2>Programmer Humor</h2>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<h2>About me</h2>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="Mason" />
+  <img alt="" src="https://img.shields.io/badge/OS-Arch%20Linux-red/?logo=archlinux&color=1793d1">
+  <img alt="" src="https://img.shields.io/badge/Discord-3kh0__%231791-red/?logo=discord&color=7289DA">
+  <img alt="" src="https://img.shields.io/badge/Uses-Firefox-red/?logo=firefoxbrowser&color=ff9500">
+  <img alt="" src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954">
+  <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
+  <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+  <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
+       </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
 
-Flash Games running off of ruffle, on their very own webpage. Making it easy to embed right onto your website! May take a smidge to load. 
+- 🔭 I’m currently working on [My unblocked games website](https://masonsunblockedgames.github.io/MasonsUnblockedGames) and whatever else!
 
-This is different than the Â¨packÂ¨ as this version is just each game on its own page, which makes it better for embeds.  Also, yeah I know it looks straight out of the late 90's but whatever. If the link attached is down, then I'm most likely updating it. 
+- 🌱 I’m currently learning [discord.js](https://discord.js.org).
 
-Also, in case something happens, a backup can be accsessed on the homepage at the bottom by clicking the button, "Backup"
+- 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:echo-the-coder@tuta.io)
 
-Note: I do not take credit for ANY of this website except for the code housing all of these things together. 
+- 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
 
-Credit:
--
-DXinteractive - Creator of Bloxorz & Electricman 2  - Website: https://damienclarke.me/
--
-Felix Wiesner - Creator of Miami Shark, New York Shark and Sydney Shark
--
-Paul Neave - Porter of Tetris, Pacman, Asteroids and more - Website: https://neave.com
--
-Tom Fulp / Dan Paladin - Creator(s) of Dad n' Me & Alien Hominid - Website: https://newgrounds.com
-- 
-Wolf Games - Creators of Gunblood & Apple Shooter
--
-We Create Stuff - Creators of Portal: The Flash Version
--
-Stabyouself - Creators of Mari0 - Website: https://stabyourself.net
--
-Bored In School HTML - Orginal hosters of a HTML version of Mari0 - Github: https://github.com/PiSaucer/boredhtml
--
-Runouw - Creator of Super Mario 63
--
-IMockery, Pesto Force and the Pox Box (Team Bobbo) - Creators of Abobbos big Adventure
--
-Dennis-Gid - Creator of Ultimate Flash Sonic
--
-Miniclip - Creator(s?) of Commando
--
-Team Meat - Creators of Meat Boy
--
-Lousi - Creator of Age of War
--
-Puffballs United - Creator of Henry Stickmin
--
-Xgen Studios - Creator of Defend Your Castle
--
-JohnoChrome (FKA JohnBro) - Creator of Riddle School
--
-D-SuN - Creator(s?) of Mario Combat
--
-Splapp-Me-Do - Creator of the Impossible Quiz
--
-Y8.com - Creator / Hosters of Slope (note: this version has ADs, which sucks.) 
--
-Brad Borne - Creator of Fancy Pants
--
-Max Abernethy - Creator of Cubefield
--
-Taito Corporation - Insperation for Bubble Shooter (Creator of Flash Version n/a)
--
-Nintendo - Creators of Super Mario 64 (Code from 28klotlucas2, though he is not the original creator of the port.)
--
-ondras - creator of custom tetris (tetriscust in the files)
--
-Google - Creators of the Dinosaur game (Wayou made the conversion)
--
-iD Software - Creators of Wolfenstein (Port by https://github.com/loadx/html5-wolfenstein3D) 
--
-Stayko (https://github.com/stayko) - Creator of JS Blackjack used
--
-Atari - Creator(s) of Pong, Centipede, and more
--
-Shift-Refresh Consulting - Creator(s?) of Flash version of Pong
--
-gamedesign.jp - Creator(s?) of Flash Version of Hanafuda and the How to Guide 
--
-Mojang - Creator(s) of Minecraft and its Â¨ClassicÂ¨ Webport
--
-3kh0 - Reverse Engineer of Minecraft Classic, Retro Bowl and Basket Ball Stars
--
-New Star Games - Creator(s?) of Retro Bowl
--
-Gabriele Cirulli - Creator of 2048 - Github: https://github.com/gabrielecirulli
--
-Ruffle Team - Creator(S) of Emulator used - Website: https://ruffle.rs/#
--
-Ben Firshman - Creator of (other) emulator used - Website: https://fir.sh/
--
-Aidan Harris - Creator of LodlineGBA basis for (other, other) emulator used
--
-jackmonty753 - Hoster of GBABandicoot, edited version of emulator above
--
-Me (SeanS) - For making this
--
-You - For playing it
--
+- 👨‍💻 All of my projects are available at [3kh0.github.io](https://3kh0.github.io/) and my [repos tab](https://github.com/3kh0?tab=repositories).
 
-Also, please give credit if you iframe or embed this for your own website.
+- 📫 You can ping me in [my epic discord server](https://discord.gg/wv6huJAwEv) or hit me up at my [email](mailto:echo-the-coder@tuta.io).
 
-Is this a W site?
+- ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
 
--Serafin Was Here
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/3kh0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3kh0_" height="30" width="40" /></a>
+<a href="https://discord.gg/wv6huJAwEv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="44yAbMWbHb" height="30" width="40" /></a>
+</p>
+<p align="left"> <a href="https://twitter.com/3kh0_" target="blank"><img src="https://img.shields.io/twitter/follow/3kh0_?logo=twitter&style=for-the-badge" alt="3kh0_" /></a> <br>
+<a href="https://discord.gg/wv6huJAwEv" target="blank"><img align="center" src="https://img.shields.io/discord/971769908205604864?label=Server&logo=discord&style=for-the-badge" alt="discord"></a></p>
+
+
+<h2 align="left">Stats</h2>
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=3kh0&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="3kh0" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p><br>
+  </html>
+
+## Other stuff: <br>
+
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/3kh0/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/3kh0/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/3kh0/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+<a href="https://octoprofile.vercel.app/user?id=3kh0">Octoprofile</a>
+</html>

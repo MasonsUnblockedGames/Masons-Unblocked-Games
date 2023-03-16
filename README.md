@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning [discord.js](https://discord.js.org).
 
-- 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:echo-the-coder@tuta.io)
+- 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:h-centralstaff@gmail.com)
 
 - 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
 

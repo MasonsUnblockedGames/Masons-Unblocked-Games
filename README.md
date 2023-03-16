@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [My unblocked games website](https://masonsunblockedgames.github.io/MasonsUnblockedGames) and whatever else!
 
-- 🌱 I’m currently learning [discord.js](404).
+- 🌱 I’m currently learning [discord.js](404error).
 
 - 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:h-centralstaff@gmail.com)
 

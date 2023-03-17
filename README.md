@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:h-centralstaff@gmail.com)
 
-- 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
+- 🤝 I’m looking for help with [my website](404). Make a pull if you can!
 
 - 👨‍💻 All of my projects are available at [3kh0.github.io](https://3kh0.github.io/) and my [repos tab](https://github.com/3kh0?tab=repositories).
 
